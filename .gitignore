@@ -1,0 +1,4 @@
+includes
+build
+libs/lib*.a
+.*.swp
